@@ -41,6 +41,21 @@ Os projetos presentes neste repositório representam minha trajetória universit
 
 ---
 
+## 🎯 Sobre Mim
+
+Sou estudante de **Ciência da Computação**, formado também em Direito, com grande interesse em tecnologia, desenvolvimento de software e aprendizado contínuo.
+
+---
+
+## 📫 Contato
+
+Caso queira trocar ideias, colaborar ou conversar sobre tecnologia:
+
+- GitHub: https://github.com/bielpin84  
+- LinkedIn: *em construção*
+
+---
+
 ## ⭐ Observação
 
 Este repositório possui fins acadêmicos e de portfólio. Alguns projetos refletem diferentes fases do aprendizado e evolução técnica ao longo da graduação.
