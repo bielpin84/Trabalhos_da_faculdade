@@ -117,7 +117,7 @@ Busco evoluir constantemente e construir uma carreira sólida na área tech.
 ## 📫 Contato
 
 - GitHub: https://github.com/bielpin84  
-- LinkedIn: Em construção
+- LinkedIn: www.linkedin.com/in/gabriel-guerra-tech
 
 ---
 
@@ -182,7 +182,7 @@ Focused on continuous growth and building a strong tech career.
 ## 📫 Contact
 
 - GitHub: https://github.com/bielpin84  
-- LinkedIn: Under construction
+- LinkedIn: www.linkedin.com/in/gabriel-guerra-tech
 
 ---
 
