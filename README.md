@@ -21,10 +21,6 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=bielpin84&repo=Trabalhos_da_faculdade&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielpin84&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
